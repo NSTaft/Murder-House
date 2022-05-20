@@ -1,0 +1,14 @@
+#canvas {
+    background-color: black;
+    width: 60%;
+    height: 60%;
+}
+
+h1 {
+    text-align: center;
+}
+
+#gameboard {
+    display: flex;
+    justify-content: center;
+}
